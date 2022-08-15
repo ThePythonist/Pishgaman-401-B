@@ -1,0 +1,10 @@
+name = input("Enter your name : ")
+print(name)
+age = input("Enter your age : ")
+print(age)
+student_code = input("Enter your student code : ")
+print(student_code)
+
+#print(name)
+#print(age)
+#print(student_code)
