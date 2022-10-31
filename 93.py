@@ -1,0 +1,5 @@
+lines = open('words.txt').read()
+lines = lines.replace("\n", "")
+# print(len(lines))
+open("OneLine.txt", "w").write(lines)
+print("Done")
